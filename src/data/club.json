@@ -1,0 +1,206 @@
+{
+  "club": {
+    "name": "Tafakkur Readers",
+    "founded": "2024-01-01",
+    "totalSessions": 22,
+    "booksCompleted": 8
+  },
+  "currentBook": {
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genre": [
+      "Personal Development",
+      "Finance"
+    ],
+    "totalSessions": 2,
+    "currentSession": 1,
+    "coverColor": "#1A1A2E",
+    "description": "A timeless classic that distills the secrets of wealth and success from the world's most prosperous individuals into actionable principles."
+  },
+  "pastBooks": [
+    {
+      "id": "pb1",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "sessions": 3,
+      "coverColor": "#D98324"
+    },
+    {
+      "id": "pb2",
+      "title": "How to Win Friends and Influence People",
+      "author": "Dale Carnegie",
+      "sessions": 2,
+      "coverColor": "#3A7CA5"
+    },
+    {
+      "id": "pb3",
+      "title": "The 7 Habits of Highly Effective People",
+      "author": "Stephen R. Covey",
+      "sessions": 3,
+      "coverColor": "#4A7C59"
+    },
+    {
+      "id": "pb4",
+      "title": "Outliers: The Story of Success",
+      "author": "Malcolm Gladwell",
+      "sessions": 2,
+      "coverColor": "#6B4C9A"
+    },
+    {
+      "id": "pb5",
+      "title": "Grit: The Power of Passion and Perseverance",
+      "author": "Angela Duckworth",
+      "sessions": 2,
+      "coverColor": "#C0674A"
+    },
+    {
+      "id": "pb6",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "sessions": 3,
+      "coverColor": "#2A363B"
+    },
+    {
+      "id": "pb7",
+      "title": "The Compound Effect",
+      "author": "Darren Hardy",
+      "sessions": 2,
+      "coverColor": "#C9A84C"
+    },
+    {
+      "id": "pb8",
+      "title": "The Obstacle Is the Way",
+      "author": "Ryan Holiday",
+      "sessions": 3,
+      "coverColor": "#8D6E63"
+    }
+  ],
+  "members": [
+    {
+      "id": "m1",
+      "name": "Amir Bashir",
+      "joinedDate": "2024-01-01",
+      "avatarColor": "#4A7C59",
+      "attendance": {
+        "attended": 21,
+        "total": 22
+      },
+      "currentStreak": 21,
+      "badges": [
+        "first_spark",
+        "rising_reader"
+      ],
+      "assignedTopic": "Desire: The Starting Point",
+      "assignedSession": 2
+    },
+    {
+      "id": "m2",
+      "name": "Shahid Ahmad",
+      "joinedDate": "2024-02-15",
+      "avatarColor": "#C0674A",
+      "attendance": {
+        "attended": 12,
+        "total": 22
+      },
+      "currentStreak": 0,
+      "badges": [
+        "first_spark"
+      ],
+      "assignedTopic": "Faith and Autosuggestion",
+      "assignedSession": 3
+    },
+    {
+      "id": "m3",
+      "name": "Sheikh Saidee",
+      "joinedDate": "2024-01-01",
+      "avatarColor": "#1A1A2E",
+      "attendance": {
+        "attended": 18,
+        "total": 22
+      },
+      "currentStreak": 2,
+      "badges": [
+        "first_spark",
+        "rising_reader"
+      ],
+      "assignedTopic": "Specialized Knowledge",
+      "assignedSession": 4
+    },
+    {
+      "id": "m4",
+      "name": "Ahmad",
+      "joinedDate": "2026-02-01",
+      "avatarColor": "#C9A84C",
+      "attendance": {
+        "attended": 3,
+        "total": 3
+      },
+      "currentStreak": 3,
+      "badges": [
+        "first_spark"
+      ],
+      "assignedTopic": "Imagination",
+      "assignedSession": 5
+    },
+    {
+      "id": "m5",
+      "name": "Abrar",
+      "joinedDate": "2026-04-01",
+      "avatarColor": "#3A7CA5",
+      "attendance": {
+        "attended": 1,
+        "total": 1
+      },
+      "currentStreak": 1,
+      "badges": [
+        "first_spark"
+      ]
+    },
+    {
+      "id": "m6",
+      "name": "Aleem",
+      "joinedDate": "2026-04-01",
+      "avatarColor": "#6B4C9A",
+      "attendance": {
+        "attended": 1,
+        "total": 1
+      },
+      "currentStreak": 1,
+      "badges": [
+        "first_spark"
+      ]
+    }
+  ],
+  "sessions": [
+    {
+      "id": "s21",
+      "number": 21,
+      "date": "2025-04-15",
+      "presenter": "m1",
+      "topic": "Introduction to Think and Grow Rich",
+      "takeaways": [
+        "Thoughts are things when mixed with purpose and persistence.",
+        "Success comes to those who become success-conscious.",
+        "Definiteness of purpose is the starting point."
+      ],
+      "quoteOfSession": {
+        "text": "Whatever the mind of man can conceive and believe, it can achieve.",
+        "author": "Napoleon Hill"
+      },
+      "status": "completed"
+    },
+    {
+      "id": "s22",
+      "number": 22,
+      "date": "2025-05-01",
+      "presenter": "m1",
+      "topic": "Desire: The Starting Point",
+      "takeaways": [
+        "Desire must be a burning obsession, not merely a hope.",
+        "Creating a definitive, practical plan accelerates the realization of desire.",
+        "Persistence is key to maintaining a burning desire."
+      ],
+      "status": "upcoming"
+    }
+  ]
+}
