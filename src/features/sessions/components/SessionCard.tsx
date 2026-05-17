@@ -1,4 +1,3 @@
-import React from 'react';
 import type { Session } from '../../../types/index';
 import { getMemberById } from '../../../config/data';
 import { QuoteBlock } from '../../../components/Elements/QuoteBlock';

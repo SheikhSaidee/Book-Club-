@@ -1,4 +1,3 @@
-import React from 'react';
 import { ProgressBar } from '../../../components/Elements/ProgressBar';
 
 export function AttendanceBar({ attended, total }: { attended: number; total: number }) {

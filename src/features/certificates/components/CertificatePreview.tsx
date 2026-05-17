@@ -1,4 +1,3 @@
-import React from 'react';
 import type { Member, CurrentBook } from '../../../types/index';
 import { BadgeIcon } from '../../badges/components/BadgeIcon';
 import { Award, BookOpen } from 'lucide-react';

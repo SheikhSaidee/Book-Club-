@@ -1,4 +1,3 @@
-import React from 'react';
 import { PageTransition } from '../components/Layout/PageTransition';
 import { BadgeIcon } from '../features/badges/components/BadgeIcon';
 import { data } from '../config/data';

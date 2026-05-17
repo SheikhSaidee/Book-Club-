@@ -1,4 +1,4 @@
-import React from 'react';
+import { useRef } from 'react';
 import { Link } from 'react-router-dom';
 import { PageTransition } from '../components/Layout/PageTransition';
 import { data } from '../config/data';
@@ -14,7 +14,7 @@ export function Home() {
   useTitle('Home');
   const nextSession = data.sessions.find(s => s.status === 'upcoming');
   const activeMembers = [...data.members].sort((a, b) => b.attendance.attended - a.attendance.attended).slice(0, 4);
-  const scrollRef = React.useRef<HTMLDivElement>(null);
+  const scrollRef = useRef<HTMLDivElement>(null);
 
   const scroll = (direction: 'left' | 'right') => {
     if (scrollRef.current) {

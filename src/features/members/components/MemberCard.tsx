@@ -1,4 +1,3 @@
-import React from 'react';
 import type { Member } from '../../../types/index';
 import { BadgeIcon } from '../../badges/components/BadgeIcon';
 import { StreakBadge } from './StreakBadge';

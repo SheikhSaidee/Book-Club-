@@ -1,4 +1,3 @@
-import React from 'react';
 import { Flame, FlameKindling } from 'lucide-react';
 
 export function StreakBadge({ count }: { count: number }) {

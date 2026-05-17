@@ -1,4 +1,3 @@
-import React from 'react';
 import { PageTransition } from '../components/Layout/PageTransition';
 import { data } from '../config/data';
 import { ProgressBar } from '../components/Elements/ProgressBar';

@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef } from 'react';
+import {  useEffect, useState, useRef  } from 'react';
 import { useInView } from 'framer-motion';
 
 export function StatCounter({ value, label }: { value: number; label: string }) {

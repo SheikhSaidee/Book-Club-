@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import {  useState  } from 'react';
 import { PageTransition } from '../components/Layout/PageTransition';
 import { CertificatePreview } from '../features/certificates/components/CertificatePreview';
 import { data } from '../config/data';
