@@ -2,8 +2,8 @@
   "club": {
     "name": "Tafakkur Readers",
     "founded": "2024-01-01",
-    "totalSessions": 22,
-    "booksCompleted": 8
+    "totalSessions": 18,
+    "booksCompleted": 6
   },
   "currentBook": {
     "title": "Think and Grow Rich",
@@ -40,13 +40,6 @@
       "coverColor": "#4A7C59"
     },
     {
-      "id": "pb4",
-      "title": "Outliers: The Story of Success",
-      "author": "Malcolm Gladwell",
-      "sessions": 2,
-      "coverColor": "#6B4C9A"
-    },
-    {
       "id": "pb5",
       "title": "Grit: The Power of Passion and Perseverance",
       "author": "Angela Duckworth",
@@ -61,13 +54,6 @@
       "coverColor": "#2A363B"
     },
     {
-      "id": "pb7",
-      "title": "The Compound Effect",
-      "author": "Darren Hardy",
-      "sessions": 2,
-      "coverColor": "#C9A84C"
-    },
-    {
       "id": "pb8",
       "title": "The Obstacle Is the Way",
       "author": "Ryan Holiday",
@@ -78,14 +64,14 @@
   "members": [
     {
       "id": "m1",
-      "name": "Amir Bashir",
+      "name": "Aamir Bashir",
       "joinedDate": "2024-01-01",
       "avatarColor": "#4A7C59",
       "attendance": {
-        "attended": 21,
-        "total": 22
+        "attended": 17,
+        "total": 18
       },
-      "currentStreak": 21,
+      "currentStreak": 16,
       "badges": [
         "first_spark",
         "rising_reader"
@@ -94,29 +80,13 @@
       "assignedSession": 2
     },
     {
-      "id": "m2",
-      "name": "Shahid Ahmad",
-      "joinedDate": "2024-02-15",
-      "avatarColor": "#C0674A",
-      "attendance": {
-        "attended": 12,
-        "total": 22
-      },
-      "currentStreak": 0,
-      "badges": [
-        "first_spark"
-      ],
-      "assignedTopic": "Faith and Autosuggestion",
-      "assignedSession": 3
-    },
-    {
       "id": "m3",
       "name": "Sheikh Saidee",
       "joinedDate": "2024-01-01",
       "avatarColor": "#1A1A2E",
       "attendance": {
-        "attended": 18,
-        "total": 22
+        "attended": 14,
+        "total": 18
       },
       "currentStreak": 2,
       "badges": [
@@ -124,7 +94,7 @@
         "rising_reader"
       ],
       "assignedTopic": "Specialized Knowledge",
-      "assignedSession": 4
+      "assignedSession": 2
     },
     {
       "id": "m4",
